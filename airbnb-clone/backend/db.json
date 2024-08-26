@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dineo Mokoena",
+      "email": "dineo@123.com",
+      "phone": "45678909876789"
+    },
+    {
+        "id": 2,
+        "name": "Mick Greene",
+        "email": "mick@greene.com",
+        "phone": "45678909876-78-89"
+      },
+      {
+        "email": "olivier@mail.com",
+        "password": "$2a$10$oUhDGmecQTvwFOLJog1jGemiSHGRWuX/uRCVagZuRpbe84SH",
+        "id": 3
+      }
+  ],
+  "bookings": [
+    {
+      "listingI d": 1,
+      "startDate": "2022-02-20",
+      "endDate": "2022-02-21",
+      "userId": "1"
+    }
+  ],
+  "listings": [
+    {
+      "id": 1,
+      "bath_num": 3,
+      "img":"https://a0.muscache.com/im/pictures/eb9c7c6a-ee33-414a-b1ba-14e8860d59b3.jpg?im_w=720",
+      "description": "Unique activities we can do together, led by a world of hosts",
+      "bed_num": 4,
+      "zip": 123456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": 2000,
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": 2
+    },
+    {
+      "id": 1,
+      "bath_num": 3,
+      "img":"https://media.nomadicmatt.com/2019/airbnb_breakup.jpg",
+      "title": "Penthouse in London",
+      "description": "Enjoy the amazing sights of London with this stunning penthouse",
+      "bed_num": 4,
+      "zip": 123456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": "$350/night",
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": 2
+    }
+  ]
+}
+
+
